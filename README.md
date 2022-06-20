@@ -10,6 +10,9 @@ Clicking the "Save to playlist" or "Save" button TEXT opens the same popup, wait
 
 > **_NOTE:_** Clicking on the icon of the button will not work as of version 0.1
 
+![Sorting Example](sorting_example.png)
+
+
 ## How To Install
  1. Get the TamperMonkey browser extension - https://www.tampermonkey.net/
  2. Create a new script and add the code from [ReorderYTPlaylists.js](ReorderYTPlaylists.user.js)
@@ -21,8 +24,11 @@ Clicking the "Save to playlist" or "Save" button TEXT opens the same popup, wait
  * Sorting the side panel playlist view
  * Section on page that holds buttons to control functionality (instead of using existing buttons)
  * Check if sorting has already happened instead of sorting every time the button is clicked.
+ * Keep Watch later playlist at the top
+ * Bypass unicode characters/icons as the first letter of the name (use only a-z and A-Z)
 
 ## Bugs or Features?
 Create an issue with the appropriate tag and describe the bug or feature. If you want to submit a pull request with a fix then please reference the issue too.
 
+## Known Issues
 ---
