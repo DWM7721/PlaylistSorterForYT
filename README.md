@@ -1,6 +1,7 @@
 # Reorder YT Playlist Popup
 
 ## A TamperMonkey script to reorder list of playlists on YouTube
+Check out the blog post about this project [here](https://danwm.xyz/2022/06/20/Script-for-sorting-playlists-on-YouTube/)
 
 ### Current YT Functionality
 Clicking the "Save to playlist" or "Save" button opens a popup that lists all your playlists in "recently added" order.
